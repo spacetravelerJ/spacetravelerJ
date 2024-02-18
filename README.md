@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @spacetravelerJ
 - 👀 I’m interested in universe
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning c++, python
 - 💞️ I’m looking to collaborate on ros
 
 <!---
