@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @spacetravelerJ
-- 👀 I’m interested in universe
-- 🌱 I’m currently learning c++, python
-- 💞️ I’m looking to collaborate on ros
+- 👀 I’m interested in space
+- 🌱 I’m currently learning c++, python, java
+- 💞️ I’m looking to collaborate on everything
 
 <!---
 spacetravelerJ/spacetravelerJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
