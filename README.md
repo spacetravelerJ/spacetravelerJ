@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @spacetravelerJ
-- 👀 I’m interested in space
+- 👀 I’m interested in space and sj
 - 🌱 I’m currently learning c++, python, java
 - 💞️ I’m looking to collaborate on everything
 
